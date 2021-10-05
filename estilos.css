@@ -54,3 +54,12 @@ input{
 .titulo{
     margin-bottom: 9em;
 }
+h4{
+    color: white;
+}
+
+.formuser{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
