@@ -46,3 +46,11 @@ input{
     border-radius: 5px;
     text-align: center;
 }
+.form-control{
+    background-color: black;
+    color: white;
+}
+
+.titulo{
+    margin-bottom: 9em;
+}
